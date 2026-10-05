@@ -1,0 +1,9 @@
+# --- Core ---
+python-dotenv==1.0.1
+streamlit==1.39.0
+
+# --- LLM ---
+groq==0.11.0
+
+# --- Tools ---
+ddgs==6.2.4
