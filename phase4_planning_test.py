@@ -25,7 +25,7 @@ Input: short_input
 
 Examples:
 
-Example 1:
+Example 1:what 
 Step: Identify the most recent population of India
 Output:
 Tool: fake_search
